@@ -1,0 +1,17 @@
+.image-box{
+    width: 250px;
+    height: auto;
+    margin: 15px auto;
+}
+
+.image-box img{
+    width: 100%;
+    height: auto;
+}
+
+.image-box div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+}

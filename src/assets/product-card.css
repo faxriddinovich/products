@@ -1,0 +1,21 @@
+.product-card {
+    height: auto;
+}
+
+.product-card img{
+    width: 100%;
+    height: auto;
+}
+
+.btn-box{
+    height: 100%;
+}
+
+.info-box a{
+    color: #333;
+    text-decoration: none;
+}
+
+.info-box a:hover{
+    text-decoration: underline;
+}
